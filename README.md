@@ -26,5 +26,4 @@ K-Means y GMM sobre el espacio latente.
 3. Requiere conexión a internet para descargar los pesos de MobileNetV2
 
 ## Video explicativo
-
-Ver `video/animacion_manim.mp4`
+[Ver presentación](https://github.com/JeanLuka17/Proyecto4ML/blob/main/proyecto4_final.mp4)
